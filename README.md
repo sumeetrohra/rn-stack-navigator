@@ -4,6 +4,8 @@
 **Works with React Native vanilla as well as expo. No native code involved.**
 _React 16.8.x+_
 
+NPM: https://www.npmjs.com/package/rn-stack-navigator
+
 To install simply type:
 
 ```

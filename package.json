@@ -1,0 +1,53 @@
+{
+  "name": "rn-stack-navigator",
+  "version": "1.0.0",
+  "description": "The simplest stack navigator for react native applications which has no bloatware unlike other alternates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "navigation",
+    "navigator",
+    "stack",
+    "switch",
+    "stack-navigator",
+    "stack navigator",
+    "switch-navigator",
+    "switch navigator",
+    "rn navigator",
+    "rn-navigator",
+    "react-navigation",
+    "react-navigator",
+    "rn-stack-navigator",
+    "rn-navigator",
+    "rn-stack-navigation",
+    "rn-navigation",
+    "react-native-navigator",
+    "react-native-navigation"
+  ],
+  "author": "sumeet rohra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colbymillerdev/react-native-progress-steps/issues"
+  },
+  "homepage": "https://github.com/colbymillerdev/react-native-progress-steps#readme"
+}

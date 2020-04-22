@@ -36,7 +36,7 @@ _setScreen_ takes the name of the screen and navigates to that screen, _clearHis
 
 **Example:**
 
-![React Native Stack Navigator Demo](https://drive.google.com/uc?id=17U5-Um8mCdqH5B8ETPqAF8ww17GAELMJ)
+![React Native Stack Navigator Demo](https://user-images.githubusercontent.com/14572393/79987505-227bfd00-84cb-11ea-8709-899bb90a0c26.gif)
 
 **App.js**
 

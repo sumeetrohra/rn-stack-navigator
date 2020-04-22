@@ -35,7 +35,8 @@ And _useNavigator_ gives 2 functions, _setScreen_, _clearHistoryAndSetScreen_.
 _setScreen_ takes the name of the screen and navigates to that screen, _clearHistoryAndSetScreen_ takes the name of the screen, clears the previous screen history and sets the new screen.
 
 **Example:**
-![React Native Stack Navigator Demo](https://hostveryspeedy.onlineconverter.com/file/32e52b92c1e4b0189bd46df772b49d80cd/download)
+
+![React Native Stack Navigator Demo](https://drive.google.com/uc?id=17U5-Um8mCdqH5B8ETPqAF8ww17GAELMJ)
 
 **App.js**
 

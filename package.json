@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/sumeetrohra/rn-stack-navigator.git"
   },
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.59.0"
@@ -47,7 +47,7 @@
   "author": "sumeet rohra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/colbymillerdev/react-native-progress-steps/issues"
+    "url": "https://github.com/sumeetrohra/rn-stack-navigator/issues"
   },
-  "homepage": "https://github.com/colbymillerdev/react-native-progress-steps#readme"
+  "homepage": "https://github.com/sumeetrohra/rn-stack-navigator#readme"
 }

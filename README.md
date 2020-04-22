@@ -24,14 +24,19 @@ import { NavContainer, Nav, NavScreen, useNavigator } from 'rn-stack-navigator';
 ```
 
 Use _NavContainer_ component as the root of your App.
+
 All your Screens lie inside _Nav_ component.
 _Nav_ component as an optional props: _defaultScreen_, where you can pass the name of the screen which you want to appear first, if not passed it will use the first _NavScreen_ component's name.
+
 _NavScreen_ component takes 2 props: _name_, where you name your component, and _component_, where you pass your actual component.
 Also _NavScreen_ component takes any other props you pass and sends it to the respective screen as props.
+
 And _useNavigator_ gives 2 functions, _setScreen_, _clearHistoryAndSetScreen_.
 _setScreen_ takes the name of the screen and navigates to that screen, _clearHistoryAndSetScreen_ takes the name of the screen, clears the previous screen history and sets the new screen.
 
 **Example:**
+![React Native Stack Navigator Demo](https://hostveryspeedy.onlineconverter.com/file/32e52b92c1e4b0189bd46df772b49d80cd/download)
+
 **App.js**
 
 ```
